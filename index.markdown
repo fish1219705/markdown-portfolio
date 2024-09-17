@@ -1,6 +1,8 @@
 # Peiyu Han
 
-1234
+blah
 
 
-[Home]
+[Home](/markdown-portfolio/)
+[projects]
+[contact]
