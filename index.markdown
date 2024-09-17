@@ -2,7 +2,8 @@
 
 blah
 
+----
 
-[Home](/markdown-portfolio/)
-[projects]
-[contact]
+[Home](/markdown-portfolio/) | 
+[projects] |
+[contact] |
