@@ -1,9 +1,5 @@
-# Peiyu Han
-
-blah
-
-----
+# Projects
 
 [Home](/markdown-portfolio/)
 [projects](projects)
-[contact](contact)
+[contact](contact) 
