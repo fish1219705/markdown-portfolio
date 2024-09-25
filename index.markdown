@@ -5,5 +5,5 @@ blah
 ----
 
 [Home](/markdown-portfolio/)
-[projects](projects)
-[contact](contact)
+[projects](/projects/)
+[contact](/contact)
