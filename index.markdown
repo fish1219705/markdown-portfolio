@@ -2,6 +2,9 @@
 
 ## About Me
 
+![ilikeit](ice-cream-cake.jpg)
+<img src="ice-cream-cake.jpg" width="200">
+
 ### Background
 
 - Pronouns: She/Her
@@ -24,7 +27,7 @@
 2. Dog Person
 3. Sweet Teeth
 4. Taro, Coconut, Matcha, Pandan!
-5. FAVOURITE COLOUR: GREEN + PURPLE
+5. Favorite Color: GREEN & PURPLE
 6. I don't like eating rice but fancy sticky rice 😋
 7. Welcome to my hometown *Tianjin* ^^
 
