@@ -14,8 +14,8 @@
 
 ### A coding beginner & learner
 
-- '<Javascript>' Beginner
-- '<C#>' Beginner
+- `<Javascript>` Beginner
+- `<C#>` Beginner
 - Learning more....
 
 #### SOME TAGS IN LIFE!
