@@ -2,7 +2,7 @@
 
 ## About Me
 
-![ilikeit](ice-cream-cake.jpg)
+![meme](meme.jpg)
 <img src="ice-cream-cake.jpg" width="200">
 
 ### Background
