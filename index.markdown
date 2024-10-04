@@ -1,24 +1,32 @@
 # Peiyu Han
 
-## About Me👋
+## About Me
 
 ### Background
-1. An international student study in Canada
-2. A Bachelor of Philosophy (sounds weird)
-3. A girl in her 20s trying to explore her potential, Adventure in the New World
 
-#### A coding beginner & learner
+- Pronouns: She/Her
+- Currently learning **Web Development** in Humber College
+- An international student study in Canada
+- Certificate of *Network Support* in Maritime
 
-- 🌱 I’m currently learning **Web Development** :)
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about WHERE COULD FIND BEST DESSERT (Taro, Coconut, Matcha....etc.) IN *Tianjin* !
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't like eating rice but fancy sticky rice 😋
+- A Bachelor of *Philosophy*
+- A girl in her 20s trying to explore her potential
 
-#### SuperPower
-1. Not bad temper
-2. Endurance
-3. Focus
+### A coding beginner & learner
+
+- '<Javascript>' Beginner
+- '<C#>' Beginner
+- Learning more....
+
+#### SOME TAGS IN LIFE!
+
+1. Not bad temper +  Endurance + Focus
+2. Dog Person
+3. Sweet Teeth
+4. Taro, Coconut, Matcha, Pandan!
+5. FAVOURITE COLOUR: GREEN + PURPLE
+6. I don't like eating rice but fancy sticky rice 😋
+7. Welcome to my hometown *Tianjin* ^^
 
 
 
