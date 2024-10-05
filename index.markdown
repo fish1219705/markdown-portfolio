@@ -3,7 +3,7 @@
 ## About Me
 
 <img src="meme.jpg" width="400">
-<img src="ice-cream-cake.jpg" width="400">
+<img src="ice-cream-cake.jpg" width="250">
 
 ### Background
 
